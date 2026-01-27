@@ -1,6 +1,6 @@
-package filmdatabase;
+package Filmdatabase;
 
-import filmdatabase.ui.ConsoleUI;
+import Filmdatabase.ui.ConsoleUI;
 
 public class Main {
     public static void main(String[] args) {
